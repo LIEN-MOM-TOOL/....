@@ -13,5 +13,13 @@
             "key_value": "LIEN-MOM6760F8D44D01F",
             "created_at": "2024-12-17T04:06:44"
         }
+    ],
+    "2024-12-17": [
+        {
+            "date": "2024-12-17",
+            "device_id": "samsung-SM-A055F",
+            "key_value": "LIEN-MOM6760FA956F086",
+            "created_at": "2024-12-17T04:14:16"
+        }
     ]
 }
